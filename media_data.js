@@ -13,6 +13,18 @@ export const media_data = {
 		{
 			"url": "logo.png",
 			"type": "image"
+		},
+		{
+			"url": "mes1.gif",
+			"type": "image"
+		},
+		{
+			"url": "mes2.gif",
+			"type": "image"
+		},
+		{
+			"url": "mes3.gif",
+			"type": "image"
 		}
 		// {
 		// 	"url": "https://www.youtube.com/watch?v=oPJTZdA7t3U",
