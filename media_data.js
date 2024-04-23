@@ -3,8 +3,8 @@ export const media_data = {
 	"rotate": true,
 	"media": [
 		{
-			"url": "hypnotoad.mp4",
-			"type": "video"
+			"url": "hypnotoad.gif",
+			"type": "image"
 		},
 		{
 			"url": "nyan.gif",
@@ -38,5 +38,10 @@ export const media_data = {
 		// 	"url": "https://www.youtube.com/watch?v=oPJTZdA7t3U",
 		// 	"type": "youtube"
 		// },
+		//{
+		//	"url": "hypnotoad.mp4",
+		//	"type": "video"
+		//},
+
 	]
 };
