@@ -7,8 +7,8 @@ export const media_data = {
 			"type": "video"
 		},
 		{
-			"url": "nyan.mp4",
-			"type": "video"
+			"url": "nyan.gif",
+			"type": "image"
 		},
 		{
 			"url": "logo.png",
