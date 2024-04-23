@@ -25,6 +25,14 @@ export const media_data = {
 		{
 			"url": "mes3.gif",
 			"type": "image"
+		},
+		{
+			"url": "test.png",
+			"type": "image"
+		},
+		{
+			"url": "stand_by.png",
+			"type": "image"
 		}
 		// {
 		// 	"url": "https://www.youtube.com/watch?v=oPJTZdA7t3U",
